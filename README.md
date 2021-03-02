@@ -87,3 +87,22 @@ www.javaeight.com
     <td>50%</td>
   </tr>
 </table>
+
+**Books I am reading**
+================================================================================================
+<table>
+  <tr>
+    <th>Book Name</th>
+    <th>Status</th>
+    <th>Percentage Completed</th>
+    <th>Start Date</th>
+    <th>Complete Date</th>
+  </tr>
+  <tr>
+    <td>CSS: The definitive Guide</td>
+    <td>In Progress</td>
+    <td>1%</td>
+    <td>March 2nd, 2021</td>
+    <td>Targeted to complete by March 10th, 2021</td>
+  </tr>
+</table>
