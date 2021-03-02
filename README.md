@@ -13,47 +13,77 @@ www.javaeight.com
   </tr>
   <tr>
     <td>Core Java</td>
+    <td>In Progress</td>
+    <td>80%</td>
   </tr>
   <tr>
-<td>Advanced Java</td>
+    <td>Advanced Java</td>
+    <td>In Progress</td>
+    <td>30%</td>
   </tr>
   <tr>
-<td>Mobile Java</td>
+    <td>Mobile Java</td>
+    <td>Not Started</td>
+    <td>0%</td>
   </tr>
   <tr>
-<td>HTML</td>
+    <td>HTML</td>
+    <td>In Progress</td>
+    <td>60%</td>
   </tr>
   <tr>
-<td>CSS</td>
+    <td>CSS</td>
+    <td>In Progress</td>
+    <td>10%</td>
   </tr>
   <tr>
-<td>Java Script</td>
+    <td>Java Script</td>
+    <td>Not Started</td>
+    <td>0%</td>
   </tr>
   <tr>
-<td>React</td>
+    <td>React</td>
+    <td>Not Started</td>
+    <td>0%</td>
   </tr>
   <tr>
-<td>Redux</td>
+    <td>Redux</td>
+    <td>Not Started</td>
+    <td>0%</td>
   </tr>
   <tr>
-<td>C</td>
+    <td>C</td>
+    <td>Not Started</td>
+    <td>0%</td>
   </tr>
   <tr>
-<td>C++</td>
+    <td>C++</td>
+    <td>Not Started</td>
+    <td>0%</td>
   </tr>
   <tr>
-<td>C#</td>
+    <td>C#</td>
+    <td>Not Started</td>
+    <td>0%</td>
   </tr>
   <tr>
-<td>.NET</td>
+    <td>.NET</td>
+    <td>Not Started</td>
+    <td>0%</td>
   </tr>
   <tr>
-<td>Spring</td>
+    <td>Spring</td>
+    <td>In progress</td>
+    <td>40%</td>
   </tr>
   <tr>
-<td>Hibernate</td>
+    <td>Hibernate</td>
+    <td>In Progress</td>
+    <td>20%</td>
   </tr>
   <tr>
-<td>JUnit</td>
+    <td>JUnit</td>
+    <td>In Progress</td>
+    <td>50%</td>
   </tr>
 </table>
