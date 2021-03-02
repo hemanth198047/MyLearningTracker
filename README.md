@@ -5,3 +5,18 @@ www.javaeight.com
 
 **Skills**
 ================================================================================================
+Core Java
+Advanced Java
+Mobile Java
+HTML
+CSS
+Java Script
+React
+Redux
+C
+C++
+C#
+.NET
+Spring
+Hibernate
+JUnit
